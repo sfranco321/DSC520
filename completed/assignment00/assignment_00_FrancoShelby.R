@@ -14,7 +14,7 @@
 6 * 7
 
 ## Add 4 to 6 and divide the result by 2
-(4 + 6) / 2
+(6 + 4) / 2
 
 ## Compute 5 modulo 2
 5 %% 2
@@ -27,6 +27,7 @@ x
 ## Assign the value 41 to the variable y
 ## Print y
 y <- 41
+y
 
 ## Assign the output of x + y to the variable z
 ## Print z
@@ -43,10 +44,10 @@ class_name
 is_good <- TRUE
 is_good
 
-## Check the class of the variable is_good using the class() function
+## Check the class of the variable is_good using the `class()` function
 class(is_good)
 
-## Check the class of the variable z using the class() function
+## Check the class of the variable z using the `class()` function
 class(z)
 
 ## Check the class of the variable class_name using the class() function
